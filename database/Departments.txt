@@ -1,0 +1,30 @@
+Orthodontics
+Dietetic
+Check-Up
+Dermatology
+Gastroenterology 
+General surgery
+Radiology
+Thoracic surgery
+Eye diseases
+General medicine
+Diabetes clinic 
+Genetic diseases
+Gynecologic oncology clinic
+Obstetrics and gynecology 
+Cardiovascular surgery 
+Cancer control center
+Cardiology
+Ear-nose-throat disorders
+Plastic surgery
+Mammaplasty
+Neurology
+Orthopaedics
+Pathology
+Psychology
+Urology
+Intensive care 
+
+
+
+
